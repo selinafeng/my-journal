@@ -1,24 +1,22 @@
-# README
+# MyJournal #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A minimalistic journaling app created using Ruby on Rails and Bootstrap. 
 
-Things you may want to cover:
+In my search for journaling websites, I discovered that many had features that could only
+be unlocked by purchasing a premium membership. I decided to attempt to make my own app that would allow me to use these features for free. 
 
-* Ruby version
+Features still in progress: 
 
-* System dependencies
+* Login functionality using devise
 
-* Configuration
+* Home screen (users should only be able to access their journal after logging in)
 
-* Database creation
+* Image upload (users should be able to attach images to their entries if they want to)
 
-* Database initialization
+* Calendar (integration with Google Calendar API)
 
-* How to run the test suite
+* Writing prompts
 
-* Services (job queues, cache servers, search engines, etc.)
+* Text editor tools (ie. different fonts, font size) for writing comfort
 
-* Deployment instructions
 
-* ...
