@@ -1,5 +1,4 @@
 body {
-  background-color: #D4EDF7;
   color: #333;
   margin: 33px;
   font-family: verdana, arial, helvetica, sans-serif;
@@ -24,7 +23,6 @@ a {
 
   &:hover {
     color: #fff;
-    background-color: #000;
   }
 }
 
@@ -70,6 +68,7 @@ div {
   }
 
   ul li {
+    color: #eee;
     font-size: 12px;
     list-style: square;
   }
@@ -94,3 +93,4 @@ label {
 .dropdown-toggle {
   color: #eee;
 }
+
